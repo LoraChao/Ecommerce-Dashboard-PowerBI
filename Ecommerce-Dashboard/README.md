@@ -20,7 +20,7 @@ The goal was to identify product structure and customer retention issues, and pr
 ![Customer](Images/P3_Customer.png)
 
 ### Page 4: Recommendations
-![Strategy](Images/P4_Strategy.png)
+![Strategy](Images/P4_Recommendations.png)
 
 ## 🔍 Key Insights
 - Mid Tier products drove Q4 growth but contributed only 40% of sales
